@@ -23,5 +23,7 @@ function App() {
     </div>
   );
 }
-const App = () => <PortfolioContainer/>; 
+
+const App = () => <PortfolioContainer />;
+
 export default App;
